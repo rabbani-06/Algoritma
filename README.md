@@ -1,7 +1,8 @@
 # Analisis Algoritma Pengurutan
 
 **Nama:** Muh. Rafi Rabbani  
-**NIM:** F55123038
+**NIM:** F55123038  
+**Kelas:** B
 
 Proyek ini mengimplementasikan dan menganalisis dua algoritma pengurutan:  
 1. Pendekatan Naif (Bubble Sort)  
